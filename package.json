@@ -1,0 +1,19 @@
+{
+  "name": "async-functions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amcavinue/async-functions.git"
+  },
+  "author": "Aaron McAvinue",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amcavinue/async-functions/issues"
+  },
+  "homepage": "https://github.com/amcavinue/async-functions#readme"
+}
